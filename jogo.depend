@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1337359705 source:c:\users\tsp\documents\jogo\main.c
+	<stdio.h>
+	<stdlib.h>
+	"conio.h"
+	"windows.h"
+	"time.h"
+	"ctype.h"
+
+1337350878 source:c:\users\tsp\documents\jogo\menu\menu.c
+
+1337354468 source:c:\users\tsp\documents\jogo\armadilha.c
+	"stdio.h"
+	"stdlib.h"
+	"time.h"
+	"conio.h"
+
+1337361356 source:c:\users\tsp\documents\jogo\estrelas.c
+	"stdio.h"
+	"stdlib.h"
+	"time.h"
+	"conio.h"
+	"windows.h"
+
+1337361086 source:c:\users\tsp\documents\jogo\ajuda.c
+

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="ajuda.c" open="1" top="0" tabpos="5">
+		<Cursor position="1486" topLine="13" />
+	</File>
+	<File name="armadilha.c" open="1" top="1" tabpos="3">
+		<Cursor position="1112" topLine="0" />
+	</File>
+	<File name="estrelas.c" open="1" top="0" tabpos="4">
+		<Cursor position="914" topLine="31" />
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="1">
+		<Cursor position="432" topLine="5" />
+	</File>
+	<File name="menu\menu.c" open="1" top="0" tabpos="2">
+		<Cursor position="174" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>
